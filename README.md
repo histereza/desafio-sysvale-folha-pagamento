@@ -7,6 +7,6 @@ Os dois conjuntos de dados têm o mesmo formato: um id (único), nome e o valor 
 | 2  | Marina de Paula | 1250,48 | 
 
 Sua tarefa é escrever uma função que, dado um conjunto de dados de referência (ou seja, com os valores corretos) e um outro conjunto com os dados enviados pela empresa especializada, entregue um relatório que contenha:
-Indicação de quais colaboradores estão com o salário errado e de quanto é essa diferença;
-Qual a diferença entre o valor total da folha de referência e o valor da folha que foi enviada pela empresa especializada;
-A diferença média entre os valores da folha de referência e os valores da folha enviada pela empresa especializada.
+* Indicação de quais colaboradores estão com o salário errado e de quanto é essa diferença;
+* Qual a diferença entre o valor total da folha de referência e o valor da folha que foi enviada pela empresa especializada;
+* A diferença média entre os valores da folha de referência e os valores da folha enviada pela empresa especializada.
